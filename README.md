@@ -23,9 +23,10 @@ This project is a fully functional digital timer with a clock interface. It prov
 
 
 2. Navigate to the project directory:
+   ```bash
     cd digital-timer-clock
 
-3. Open index.html in a browser to start using the clock and timer.
+4. Open index.html in a browser to start using the clock and timer.
 
 **Usage**
 **Start the Timer**: Click the "Start Timer" button and set the activity, timer duration, break time, and break length.
